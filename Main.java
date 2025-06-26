@@ -9,8 +9,5 @@ public class Main {
         persian.move();
         persian.purrs();
 
-        Dog  pomeranian = new Dog();
-        pomeranian .move();
-        pomeranian .bark();
     }
 }
